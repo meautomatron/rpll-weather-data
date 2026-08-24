@@ -1,10 +1,10 @@
 {
-    "schema": 2,
+    "schema": 3,
     "date": "2026-08-24",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-08-24T19:08:08+08:00",
+    "generated_at": "2026-08-24T19:15:39+08:00",
     "history_start": "2026-08-24T06:00:00+08:00",
-    "history_end": "2026-08-24T19:08:08+08:00",
+    "history_end": "2026-08-24T19:15:39+08:00",
     "target": "RPLL",
     "dataset": "rpll_metar",
     "history": [
