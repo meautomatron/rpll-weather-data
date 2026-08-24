@@ -1,17 +1,21 @@
 {
-    "schema": 2,
+    "schema": 3,
     "date": "2026-08-24",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-08-24T19:08:08+08:00",
+    "generated_at": "2026-08-24T19:15:39+08:00",
     "history_start": "2026-08-24T06:00:00+08:00",
-    "history_end": "2026-08-24T19:08:08+08:00",
+    "history_end": "2026-08-24T19:15:39+08:00",
     "target": "RPLL",
     "metar_observation_window": "approximately :45-:55",
     "files": {
-        "combined": "latest.json",
-        "surface": "latest_surface.json",
+        "manifest": "latest.json",
+        "iparaaqu3": "latest_iparaaqu3.json",
+        "itagui5": "latest_itagui5.json",
+        "ipasay7": "latest_ipasay7.json",
+        "sonoff": "latest_sonoff.json",
         "rpll": "latest_rpll.json",
-        "model": "latest_model.json",
+        "model_freeze": "latest_model_freeze.json",
+        "model_state": "latest_model_state.json",
         "synop": "latest_synop.json"
     }
 }
