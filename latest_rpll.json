@@ -1,233 +1,229 @@
 {
     "schema": 4,
-    "date": "2026-08-26",
+    "date": "2026-08-27",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-08-26T17:58:00+08:00",
-    "history_start": "2026-08-26T06:00:00+08:00",
-    "history_end": "2026-08-26T17:58:00+08:00",
+    "generated_at": "2026-08-27T17:58:00+08:00",
+    "history_start": "2026-08-27T06:00:00+08:00",
+    "history_end": "2026-08-27T17:58:00+08:00",
     "target": "RPLL",
     "dataset": "rpll_metar",
     "history": [
         [
             {
                 "entity_id": "sensor.metar_rpll_raw_metar",
-                "state": "METAR RPLL 252100Z 23003KT 9000 FEW025 SCT100 28/25 Q1009 NOSIG RMK A2980",
+                "state": "METAR RPLL 262100Z 24003KT 200V280 9999 FEW025 27/26 Q1008 NOSIG RMK A2977",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
-                "state": "METAR RPLL 252200Z 20003KT 170V250 9999 FEW025 27/26 Q1009 NOSIG RMK A2980",
-                "last_changed": "2026-08-25T22:08:53.898685+00:00"
+                "state": "METAR RPLL 262200Z VRB02KT 9999 FEW025 27/26 Q1008 NOSIG RMK A2977",
+                "last_changed": "2026-08-26T22:03:30.014542+00:00"
             },
             {
-                "state": "METAR RPLL 252300Z VRB02KT 9999 FEW025 28/25 Q1009 NOSIG RMK A2980",
-                "last_changed": "2026-08-25T23:08:54.772325+00:00"
+                "state": "METAR RPLL 262300Z 22005KT 9999 FEW025 SCT100 28/27 Q1009 NOSIG RMK A2980",
+                "last_changed": "2026-08-26T23:03:30.827552+00:00"
             },
             {
-                "state": "METAR RPLL 260000Z 23005KT 200V260 9999 FEW025 30/25 Q1010 NOSIG RMK A2983",
-                "last_changed": "2026-08-26T00:05:45.364124+00:00"
+                "state": "METAR RPLL 262300Z COR 22005KT 8000 -SHRA FEW025 BKN100 28/27 Q1009 NOSIG RMK A2980",
+                "last_changed": "2026-08-26T23:33:30.924608+00:00"
             },
             {
-                "state": "METAR RPLL 260100Z 27010KT 9999 FEW025 31/26 Q1010 NOSIG RMK A2983",
-                "last_changed": "2026-08-26T01:01:11.166371+00:00"
+                "state": "METAR RPLL 270000Z 25006KT 220V280 9000 FEW025 SCT100 29/27 Q1009 NOSIG RMK A2980",
+                "last_changed": "2026-08-27T00:01:12.123483+00:00"
             },
             {
-                "state": "METAR RPLL 260200Z 27011KT 9999 FEW025 31/26 Q1010 NOSIG RMK A2983",
-                "last_changed": "2026-08-26T02:00:33.585183+00:00"
+                "state": "METAR RPLL 270100Z 26016G26KT 9000 FEW025 SCT100 30/27 Q1009 NOSIG RMK A2980",
+                "last_changed": "2026-08-27T01:00:00.966408+00:00"
             },
             {
-                "state": "METAR RPLL 260300Z 27013KT 9999 FEW025 32/26 Q1010 NOSIG RMK A2983",
-                "last_changed": "2026-08-26T03:00:25.781478+00:00"
+                "state": "METAR RPLL 270200Z 26016G27KT 220V280 9000 FEW025 SCT100 31/27 Q1009 NOSIG RMK A2980",
+                "last_changed": "2026-08-27T02:01:12.638076+00:00"
             },
             {
-                "state": "METAR RPLL 260400Z 27013KT 9999 FEW025 32/26 Q1009 NOSIG RMK A2980",
-                "last_changed": "2026-08-26T04:01:17.995982+00:00"
+                "state": "METAR RPLL 270300Z 26018KT 9999 FEW025 31/27 Q1009 NOSIG RMK A2980",
+                "last_changed": "2026-08-27T03:01:11.244857+00:00"
             },
             {
-                "state": "METAR RPLL 260500Z 27012KT 9999 FEW025 32/26 Q1008 NOSIG RMK A2977",
-                "last_changed": "2026-08-26T05:02:02.339509+00:00"
+                "state": "METAR RPLL 270400Z 26019KT 9999 FEW025 32/27 Q1009 NOSIG RMK A2980",
+                "last_changed": "2026-08-27T04:03:22.269309+00:00"
             },
             {
-                "state": "METAR RPLL 260600Z 27015KT 9999 FEW025 32/26 Q1008 NOSIG RMK A2977",
-                "last_changed": "2026-08-26T06:03:44.328832+00:00"
+                "state": "METAR RPLL 270500Z 23010KT 180V260 9999 FEW025 SCT100 30/26 Q1009 NOSIG RMK A2980",
+                "last_changed": "2026-08-27T05:03:12.250734+00:00"
             },
             {
-                "state": "SPECI RPLL 260625Z 26022G33KT 9999 -SHRA SCT023 BKN100 29/26 Q1009 NOSIG RMK A2980",
-                "last_changed": "2026-08-26T06:33:45.123843+00:00"
+                "state": "METAR RPLL 270600Z 26019KT 9999 FEW025 SCT100 32/26 Q1008 NOSIG RMK A2977",
+                "last_changed": "2026-08-27T06:02:11.851886+00:00"
             },
             {
-                "state": "METAR RPLL 260700Z 25008KT 210V280 9999 -SHRA SCT023 BKN100 27/25 Q1008 NOSIG RMK A2977",
-                "last_changed": "2026-08-26T07:08:51.010755+00:00"
+                "state": "METAR RPLL 270700Z 25013KT 9999 FEW025 BKN100 31/26 Q1008 NOSIG RMK A2977",
+                "last_changed": "2026-08-27T07:02:54.719203+00:00"
             },
             {
-                "state": "METAR RPLL 260800Z 23008KT 190V260 9999 FEW025 BKN100 30/24 Q1008 NOSIG RMK A2977",
-                "last_changed": "2026-08-26T08:03:33.499430+00:00"
+                "state": "METAR RPLL 270800Z 26015KT 9999 -SHRA FEW025 BKN100 30/25 Q1008 NOSIG RMK A2977",
+                "last_changed": "2026-08-27T08:00:51.332975+00:00"
             },
             {
-                "state": "METAR RPLL 260900Z 25009KT 9999 SCT025 30/25 Q1008 NOSIG RMK A2977",
-                "last_changed": "2026-08-26T09:33:44.025861+00:00"
+                "state": "METAR RPLL 270900Z 26016KT 9000 SCT023 BKN100 30/26 Q1008 NOSIG RMK A2977",
+                "last_changed": "2026-08-27T09:30:52.014849+00:00"
             }
         ],
         [
             {
                 "entity_id": "sensor.metar_rpll_temperature",
-                "state": "28.0",
-                "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
-            },
-            {
                 "state": "27.0",
-                "last_changed": "2026-08-25T22:08:53.896101+00:00"
+                "attributes": {},
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
                 "state": "28.0",
-                "last_changed": "2026-08-25T23:08:54.769171+00:00"
-            },
-            {
-                "state": "30.0",
-                "last_changed": "2026-08-26T00:05:45.361390+00:00"
-            },
-            {
-                "state": "31.0",
-                "last_changed": "2026-08-26T01:01:11.163714+00:00"
-            },
-            {
-                "state": "32.0",
-                "last_changed": "2026-08-26T03:00:25.778793+00:00"
+                "last_changed": "2026-08-26T23:03:30.825562+00:00"
             },
             {
                 "state": "29.0",
-                "last_changed": "2026-08-26T06:33:45.121008+00:00"
-            },
-            {
-                "state": "27.0",
-                "last_changed": "2026-08-26T07:08:51.007062+00:00"
+                "last_changed": "2026-08-27T00:01:12.120562+00:00"
             },
             {
                 "state": "30.0",
-                "last_changed": "2026-08-26T08:03:33.496682+00:00"
+                "last_changed": "2026-08-27T01:00:00.963308+00:00"
+            },
+            {
+                "state": "31.0",
+                "last_changed": "2026-08-27T02:01:12.635921+00:00"
+            },
+            {
+                "state": "32.0",
+                "last_changed": "2026-08-27T04:03:22.265983+00:00"
+            },
+            {
+                "state": "30.0",
+                "last_changed": "2026-08-27T05:03:12.247965+00:00"
+            },
+            {
+                "state": "32.0",
+                "last_changed": "2026-08-27T06:02:11.849430+00:00"
+            },
+            {
+                "state": "31.0",
+                "last_changed": "2026-08-27T07:02:54.716129+00:00"
+            },
+            {
+                "state": "30.0",
+                "last_changed": "2026-08-27T08:00:51.330526+00:00"
             }
         ],
         [
             {
                 "entity_id": "sensor.metar_rpll_dew_point",
-                "state": "25.0",
+                "state": "26.0",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
+            },
+            {
+                "state": "27.0",
+                "last_changed": "2026-08-26T23:03:30.825844+00:00"
             },
             {
                 "state": "26.0",
-                "last_changed": "2026-08-25T22:08:53.896517+00:00"
+                "last_changed": "2026-08-27T05:03:12.248393+00:00"
             },
             {
                 "state": "25.0",
-                "last_changed": "2026-08-25T23:08:54.769608+00:00"
+                "last_changed": "2026-08-27T08:00:51.330879+00:00"
             },
             {
                 "state": "26.0",
-                "last_changed": "2026-08-26T01:01:11.164014+00:00"
-            },
-            {
-                "state": "25.0",
-                "last_changed": "2026-08-26T07:08:51.007555+00:00"
-            },
-            {
-                "state": "24.0",
-                "last_changed": "2026-08-26T08:03:33.497096+00:00"
-            },
-            {
-                "state": "25.0",
-                "last_changed": "2026-08-26T09:33:44.023449+00:00"
+                "last_changed": "2026-08-27T09:30:52.013125+00:00"
             }
         ],
         [
             {
                 "entity_id": "sensor.metar_rpll_relative_humidity",
-                "state": "83.8",
-                "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
-            },
-            {
                 "state": "94.3",
-                "last_changed": "2026-08-25T22:08:53.898248+00:00"
+                "attributes": {},
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
-                "state": "83.8",
-                "last_changed": "2026-08-25T23:08:54.771710+00:00"
+                "state": "89.0",
+                "last_changed": "2026-08-27T00:01:12.122932+00:00"
             },
             {
-                "state": "74.7",
-                "last_changed": "2026-08-26T00:05:45.363471+00:00"
+                "state": "84.0",
+                "last_changed": "2026-08-27T01:00:00.965834+00:00"
             },
             {
-                "state": "74.9",
-                "last_changed": "2026-08-26T01:01:11.165809+00:00"
+                "state": "79.4",
+                "last_changed": "2026-08-27T02:01:12.637630+00:00"
+            },
+            {
+                "state": "75.0",
+                "last_changed": "2026-08-27T04:03:22.268525+00:00"
+            },
+            {
+                "state": "79.2",
+                "last_changed": "2026-08-27T05:03:12.250164+00:00"
             },
             {
                 "state": "70.7",
-                "last_changed": "2026-08-26T03:00:25.780903+00:00"
+                "last_changed": "2026-08-27T06:02:11.851340+00:00"
             },
             {
-                "state": "83.9",
-                "last_changed": "2026-08-26T06:33:45.123060+00:00"
-            },
-            {
-                "state": "88.9",
-                "last_changed": "2026-08-26T07:08:51.009923+00:00"
-            },
-            {
-                "state": "70.4",
-                "last_changed": "2026-08-26T08:03:33.498848+00:00"
+                "state": "74.9",
+                "last_changed": "2026-08-27T07:02:54.718594+00:00"
             },
             {
                 "state": "74.7",
-                "last_changed": "2026-08-26T09:33:44.025273+00:00"
+                "last_changed": "2026-08-27T08:00:51.332411+00:00"
+            },
+            {
+                "state": "79.2",
+                "last_changed": "2026-08-27T09:30:52.014440+00:00"
             }
         ],
         [
             {
                 "entity_id": "sensor.metar_rpll_pressure",
-                "state": "1009.0",
+                "state": "1008.0",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
-            },
-            {
-                "state": "1010.0",
-                "last_changed": "2026-08-26T00:05:45.363224+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
                 "state": "1009.0",
-                "last_changed": "2026-08-26T04:01:17.994968+00:00"
+                "last_changed": "2026-08-26T23:03:30.826978+00:00"
             },
             {
                 "state": "1008.0",
-                "last_changed": "2026-08-26T05:02:02.338559+00:00"
-            },
-            {
-                "state": "1009.0",
-                "last_changed": "2026-08-26T06:33:45.122818+00:00"
-            },
-            {
-                "state": "1008.0",
-                "last_changed": "2026-08-26T07:08:51.009593+00:00"
+                "last_changed": "2026-08-27T06:02:11.851125+00:00"
             }
         ],
         [
             {
                 "entity_id": "sensor.metar_rpll_visibility",
-                "state": "9.0",
+                "state": "10.0",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
+            },
+            {
+                "state": "8.0",
+                "last_changed": "2026-08-26T23:33:30.923675+00:00"
+            },
+            {
+                "state": "9.0",
+                "last_changed": "2026-08-27T00:01:12.122411+00:00"
             },
             {
                 "state": "10.0",
-                "last_changed": "2026-08-25T22:08:53.897811+00:00"
+                "last_changed": "2026-08-27T03:01:11.243920+00:00"
+            },
+            {
+                "state": "9.0",
+                "last_changed": "2026-08-27T09:30:52.014060+00:00"
             }
         ],
         [
@@ -235,57 +231,65 @@
                 "entity_id": "sensor.metar_rpll_weather_condition",
                 "state": "clear",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
                 "state": "light_showers_rain",
-                "last_changed": "2026-08-26T06:33:45.123200+00:00"
+                "last_changed": "2026-08-26T23:33:30.924187+00:00"
             },
             {
                 "state": "clear",
-                "last_changed": "2026-08-26T08:03:33.498959+00:00"
+                "last_changed": "2026-08-27T00:01:12.123033+00:00"
+            },
+            {
+                "state": "light_showers_rain",
+                "last_changed": "2026-08-27T08:00:51.332521+00:00"
+            },
+            {
+                "state": "clear",
+                "last_changed": "2026-08-27T09:30:52.014514+00:00"
             }
         ],
         [
             {
                 "entity_id": "sensor.metar_rpll_wind_direction",
-                "state": "230.0",
+                "state": "240.0",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
-            },
-            {
-                "state": "200.0",
-                "last_changed": "2026-08-25T22:08:53.897604+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
                 "state": "unknown",
-                "last_changed": "2026-08-25T23:08:54.770766+00:00"
+                "last_changed": "2026-08-26T22:03:30.012812+00:00"
             },
             {
-                "state": "230.0",
-                "last_changed": "2026-08-26T00:05:45.362708+00:00"
+                "state": "220.0",
+                "last_changed": "2026-08-26T23:03:30.826599+00:00"
             },
             {
-                "state": "270.0",
-                "last_changed": "2026-08-26T01:01:11.164958+00:00"
+                "state": "250.0",
+                "last_changed": "2026-08-27T00:01:12.122126+00:00"
             },
             {
                 "state": "260.0",
-                "last_changed": "2026-08-26T06:33:45.122337+00:00"
-            },
-            {
-                "state": "250.0",
-                "last_changed": "2026-08-26T07:08:51.008912+00:00"
+                "last_changed": "2026-08-27T01:00:00.965090+00:00"
             },
             {
                 "state": "230.0",
-                "last_changed": "2026-08-26T08:03:33.498117+00:00"
+                "last_changed": "2026-08-27T05:03:12.249449+00:00"
+            },
+            {
+                "state": "260.0",
+                "last_changed": "2026-08-27T06:02:11.850676+00:00"
             },
             {
                 "state": "250.0",
-                "last_changed": "2026-08-26T09:33:44.024446+00:00"
+                "last_changed": "2026-08-27T07:02:54.717824+00:00"
+            },
+            {
+                "state": "260.0",
+                "last_changed": "2026-08-27T08:00:51.331762+00:00"
             }
         ],
         [
@@ -293,48 +297,52 @@
                 "entity_id": "sensor.metar_rpll_wind_speed",
                 "state": "5.556",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
                 "state": "3.704",
-                "last_changed": "2026-08-25T23:08:54.769933+00:00"
+                "last_changed": "2026-08-26T22:03:30.011873+00:00"
             },
             {
                 "state": "9.26",
-                "last_changed": "2026-08-26T00:05:45.362037+00:00"
+                "last_changed": "2026-08-26T23:03:30.826055+00:00"
+            },
+            {
+                "state": "11.112",
+                "last_changed": "2026-08-27T00:01:12.121318+00:00"
+            },
+            {
+                "state": "29.632",
+                "last_changed": "2026-08-27T01:00:00.964176+00:00"
+            },
+            {
+                "state": "33.336",
+                "last_changed": "2026-08-27T03:01:11.242999+00:00"
+            },
+            {
+                "state": "35.188",
+                "last_changed": "2026-08-27T04:03:22.266791+00:00"
             },
             {
                 "state": "18.52",
-                "last_changed": "2026-08-26T01:01:11.164235+00:00"
+                "last_changed": "2026-08-27T05:03:12.248675+00:00"
             },
             {
-                "state": "20.372",
-                "last_changed": "2026-08-26T02:00:33.583134+00:00"
+                "state": "35.188",
+                "last_changed": "2026-08-27T06:02:11.850051+00:00"
             },
             {
                 "state": "24.076",
-                "last_changed": "2026-08-26T03:00:25.779464+00:00"
-            },
-            {
-                "state": "22.224",
-                "last_changed": "2026-08-26T05:02:02.337239+00:00"
+                "last_changed": "2026-08-27T07:02:54.717030+00:00"
             },
             {
                 "state": "27.78",
-                "last_changed": "2026-08-26T06:03:44.325991+00:00"
+                "last_changed": "2026-08-27T08:00:51.331143+00:00"
             },
             {
-                "state": "40.744",
-                "last_changed": "2026-08-26T06:33:45.121670+00:00"
-            },
-            {
-                "state": "14.816",
-                "last_changed": "2026-08-26T07:08:51.007946+00:00"
-            },
-            {
-                "state": "16.668",
-                "last_changed": "2026-08-26T09:33:44.023743+00:00"
+                "state": "29.632",
+                "last_changed": "2026-08-27T09:30:52.013355+00:00"
             }
         ],
         [
@@ -342,53 +350,61 @@
                 "entity_id": "sensor.metar_rpll_wind_gust",
                 "state": "unknown",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
-                "state": "61.116",
-                "last_changed": "2026-08-26T06:33:45.121907+00:00"
+                "state": "48.152",
+                "last_changed": "2026-08-27T01:00:00.964571+00:00"
+            },
+            {
+                "state": "50.004",
+                "last_changed": "2026-08-27T02:01:12.636672+00:00"
             },
             {
                 "state": "unknown",
-                "last_changed": "2026-08-26T07:08:51.008301+00:00"
+                "last_changed": "2026-08-27T03:01:11.243224+00:00"
             }
         ],
         [
             {
                 "entity_id": "sensor.metar_rpll_wind_variable_direction",
-                "state": "unknown",
+                "state": "200\u00b0-280\u00b0",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
-            },
-            {
-                "state": "170\u00b0-250\u00b0",
-                "last_changed": "2026-08-25T22:08:53.897386+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
                 "state": "VRB",
-                "last_changed": "2026-08-25T23:08:54.770484+00:00"
-            },
-            {
-                "state": "200\u00b0-260\u00b0",
-                "last_changed": "2026-08-26T00:05:45.362488+00:00"
+                "last_changed": "2026-08-26T22:03:30.012496+00:00"
             },
             {
                 "state": "unknown",
-                "last_changed": "2026-08-26T01:01:11.164676+00:00"
+                "last_changed": "2026-08-26T23:03:30.826411+00:00"
             },
             {
-                "state": "210\u00b0-280\u00b0",
-                "last_changed": "2026-08-26T07:08:51.008589+00:00"
-            },
-            {
-                "state": "190\u00b0-260\u00b0",
-                "last_changed": "2026-08-26T08:03:33.497857+00:00"
+                "state": "220\u00b0-280\u00b0",
+                "last_changed": "2026-08-27T00:01:12.121848+00:00"
             },
             {
                 "state": "unknown",
-                "last_changed": "2026-08-26T09:33:44.024199+00:00"
+                "last_changed": "2026-08-27T01:00:00.964820+00:00"
+            },
+            {
+                "state": "220\u00b0-280\u00b0",
+                "last_changed": "2026-08-27T02:01:12.636851+00:00"
+            },
+            {
+                "state": "unknown",
+                "last_changed": "2026-08-27T03:01:11.243423+00:00"
+            },
+            {
+                "state": "180\u00b0-260\u00b0",
+                "last_changed": "2026-08-27T05:03:12.249195+00:00"
+            },
+            {
+                "state": "unknown",
+                "last_changed": "2026-08-27T06:02:11.850463+00:00"
             }
         ],
         [
@@ -396,16 +412,12 @@
                 "entity_id": "sensor.metar_rpll_cloud_coverage_height",
                 "state": "762.0",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
                 "state": "701.04",
-                "last_changed": "2026-08-26T06:33:45.123553+00:00"
-            },
-            {
-                "state": "762.0",
-                "last_changed": "2026-08-26T08:03:33.499251+00:00"
+                "last_changed": "2026-08-27T09:30:52.014728+00:00"
             }
         ],
         [
@@ -413,20 +425,12 @@
                 "entity_id": "sensor.metar_rpll_cloud_coverage_state",
                 "state": "few",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
                 "state": "scattered",
-                "last_changed": "2026-08-26T06:33:45.123439+00:00"
-            },
-            {
-                "state": "few",
-                "last_changed": "2026-08-26T08:03:33.499146+00:00"
-            },
-            {
-                "state": "scattered",
-                "last_changed": "2026-08-26T09:33:44.025582+00:00"
+                "last_changed": "2026-08-27T09:30:52.014650+00:00"
             }
         ],
         [
@@ -434,33 +438,45 @@
                 "entity_id": "sensor.metar_rpll_cloud_coverage_type",
                 "state": "none",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             }
         ],
         [
             {
                 "entity_id": "sensor.metar_rpll_cloud_layers",
-                "state": "Few 2500ft, Scattered 10000ft",
-                "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
-            },
-            {
                 "state": "Few 2500ft",
-                "last_changed": "2026-08-25T22:08:53.898403+00:00"
+                "attributes": {},
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             },
             {
-                "state": "Scattered 2300ft, Broken 10000ft",
-                "last_changed": "2026-08-26T06:33:45.123340+00:00"
+                "state": "Few 2500ft, Scattered 10000ft",
+                "last_changed": "2026-08-26T23:03:30.827298+00:00"
             },
             {
                 "state": "Few 2500ft, Broken 10000ft",
-                "last_changed": "2026-08-26T08:03:33.499053+00:00"
+                "last_changed": "2026-08-26T23:33:30.924272+00:00"
             },
             {
-                "state": "Scattered 2500ft",
-                "last_changed": "2026-08-26T09:33:44.025491+00:00"
+                "state": "Few 2500ft, Scattered 10000ft",
+                "last_changed": "2026-08-27T00:01:12.123123+00:00"
+            },
+            {
+                "state": "Few 2500ft",
+                "last_changed": "2026-08-27T03:01:11.244534+00:00"
+            },
+            {
+                "state": "Few 2500ft, Scattered 10000ft",
+                "last_changed": "2026-08-27T05:03:12.250372+00:00"
+            },
+            {
+                "state": "Few 2500ft, Broken 10000ft",
+                "last_changed": "2026-08-27T07:02:54.718823+00:00"
+            },
+            {
+                "state": "Scattered 2300ft, Broken 10000ft",
+                "last_changed": "2026-08-27T09:30:52.014585+00:00"
             }
         ],
         [
@@ -468,8 +484,8 @@
                 "entity_id": "sensor.metar_rpll_cavok",
                 "state": "no",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             }
         ],
         [
@@ -477,8 +493,8 @@
                 "entity_id": "sensor.metar_rpll_trend",
                 "state": "NOSIG",
                 "attributes": {},
-                "last_changed": "2026-08-25T22:00:00+00:00",
-                "last_updated": "2026-08-25T22:00:00+00:00"
+                "last_changed": "2026-08-26T22:00:00+00:00",
+                "last_updated": "2026-08-26T22:00:00+00:00"
             }
         ]
     ]
