@@ -1,10 +1,10 @@
 {
     "schema": 4,
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-08-28T17:58:00+08:00",
-    "history_start": "2026-08-28T06:00:00+08:00",
-    "history_end": "2026-08-28T17:58:00+08:00",
+    "generated_at": "2026-08-29T17:58:00+08:00",
+    "history_start": "2026-08-29T06:00:00+08:00",
+    "history_end": "2026-08-29T17:58:00+08:00",
     "target": "RPLL",
     "metar_observation_window": "approximately :45-:55",
     "files": {
