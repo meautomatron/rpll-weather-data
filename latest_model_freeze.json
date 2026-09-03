@@ -2,9 +2,9 @@
     "schema": 4,
     "date": "2026-09-03",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-09-03T20:39:29+08:00",
+    "generated_at": "2026-09-03T21:02:07+08:00",
     "history_start": "2026-09-03T06:00:00+08:00",
-    "history_end": "2026-09-03T20:39:29+08:00",
+    "history_end": "2026-09-03T21:02:07+08:00",
     "target": "RPLL",
     "dataset": "model_freeze",
     "history": [
@@ -2006,6 +2006,28 @@
                 },
                 "last_changed": "2026-09-03T12:37:41.316983+00:00",
                 "last_updated": "2026-09-03T12:37:41.316983+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_metar_prediction_final_v23_shadow",
+                "state": "26",
+                "attributes": {
+                    "estimated_temperature": 26.23,
+                    "base_estimate_v21": 25.72,
+                    "predicted_metar_v21": 26.0,
+                    "airport_bias_raw": 0.51,
+                    "airport_bias_effective": 0.51,
+                    "post_outflow_recovery": false,
+                    "weather_regime": "stable",
+                    "frozen_at_manila": "2026-09-03 20:55:30",
+                    "target_metar_manila": "2026-09-03 21:00",
+                    "target_metar_utc": "2026-09-03 13:00Z",
+                    "mode": "shadow",
+                    "version": "V2.3",
+                    "unit_of_measurement": "\u00b0C",
+                    "friendly_name": "RPLL METAR Prediction Final V23 Shadow"
+                },
+                "last_changed": "2026-09-03T12:55:30.474184+00:00",
+                "last_updated": "2026-09-03T12:55:30.474184+00:00"
             }
         ]
     ]
