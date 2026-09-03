@@ -2,9 +2,9 @@
     "schema": 4,
     "date": "2026-09-03",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-09-03T21:14:09+08:00",
+    "generated_at": "2026-09-03T22:31:59+08:00",
     "history_start": "2026-09-03T06:00:00+08:00",
-    "history_end": "2026-09-03T21:14:09+08:00",
+    "history_end": "2026-09-03T22:31:59+08:00",
     "target": "RPLL",
     "dataset": "model_freeze",
     "history": [
@@ -965,6 +965,61 @@
                 },
                 "last_changed": "2026-09-03T13:12:36.483442+00:00",
                 "last_updated": "2026-09-03T13:12:36.483442+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_metar_prediction_final",
+                "state": "unavailable",
+                "attributes": {
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL METAR Prediction Final",
+                    "unit_of_measurement": "\u00b0C"
+                },
+                "last_changed": "2026-09-03T13:19:18.315138+00:00",
+                "last_updated": "2026-09-03T13:19:18.315138+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_metar_prediction_final",
+                "state": "26.0",
+                "attributes": {
+                    "estimated_temperature": 25.72,
+                    "confidence": 88,
+                    "weather_regime": "stable",
+                    "convective_score": 2,
+                    "convective_risk": "low",
+                    "station_spread": 0.7,
+                    "network_change_5m": 0.0,
+                    "network_change_15m": 0.0,
+                    "wind_role": "crosswind",
+                    "dynamic_weights": "60-25-15",
+                    "thermal_pattern": "normal",
+                    "bias_factor": 1.0,
+                    "recent_weight": 0.78,
+                    "rounding_margin": 0.22,
+                    "rounding_status": "clear_round_up",
+                    "rounding_fraction": 0.72,
+                    "ipar_temperature": 26.0555555555556,
+                    "itag_temperature": 25.7,
+                    "ipas_temperature": 26.8,
+                    "ipar_change_5m": 0.0,
+                    "itag_change_5m": 0.0,
+                    "ipas_change_5m": 0.0,
+                    "ipar_solar_change_10m": 0,
+                    "itag_solar_change_10m": 0,
+                    "ipas_solar_change_10m": 0,
+                    "ipar_rain_rate": 2.032,
+                    "itag_rain_rate": 1.78,
+                    "ipas_rain_rate": 4.8,
+                    "ipar_wind": 1.609344,
+                    "ipar_gust": 9.656064,
+                    "frozen_at_manila": "2026-09-03 20:55:30",
+                    "target_metar_manila": "2026-09-03 21:00",
+                    "target_metar_utc": "2026-09-03 13:00Z",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL METAR Prediction Final"
+                },
+                "last_changed": "2026-09-03T13:19:18.529741+00:00",
+                "last_updated": "2026-09-03T13:19:18.529741+00:00"
             }
         ],
         [
@@ -2042,6 +2097,59 @@
                 },
                 "last_changed": "2026-09-03T13:12:36.492044+00:00",
                 "last_updated": "2026-09-03T13:12:36.492044+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_metar_prediction_final_v22",
+                "state": "unavailable",
+                "attributes": {
+                    "friendly_name": "RPLL METAR Prediction Final V22"
+                },
+                "last_changed": "2026-09-03T13:19:18.318538+00:00",
+                "last_updated": "2026-09-03T13:19:18.318538+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_metar_prediction_final_v22",
+                "state": "26",
+                "attributes": {
+                    "frozen_at_manila": "2026-09-03 20:55:30",
+                    "target_manila": "2026-09-03 21:00",
+                    "target_utc": "2026-09-03 13:00Z",
+                    "predicted_metar_v22": 26,
+                    "estimated_temperature": 25.66,
+                    "estimated_temperature_v22": 25.66,
+                    "base_estimate_v21": 25.72,
+                    "predicted_metar_v21": 26,
+                    "airport_correction_v22": -0.06,
+                    "airport_residual_last": -0.28,
+                    "airport_residual_ewma": 0.01,
+                    "airport_residual_age_minutes": 81.5,
+                    "weather_regime": "stable",
+                    "convective_score": 2,
+                    "convective_risk": "low",
+                    "thermal_pattern": "normal",
+                    "dynamic_weights": "60-25-15",
+                    "wind_role": "crosswind",
+                    "station_spread": 0.7,
+                    "network_change_5m": 0.0,
+                    "network_change_15m": 0.0,
+                    "ipar_temperature": null,
+                    "itag_temperature": null,
+                    "ipas_temperature": null,
+                    "ipar_change_5m": null,
+                    "itag_change_5m": null,
+                    "ipas_change_5m": null,
+                    "ipar_solar_change_10m": null,
+                    "itag_solar_change_10m": null,
+                    "ipas_solar_change_10m": null,
+                    "ipar_rain_rate": null,
+                    "itag_rain_rate": null,
+                    "ipas_rain_rate": null,
+                    "ipar_wind": null,
+                    "ipar_gust": null,
+                    "friendly_name": "RPLL METAR Prediction Final V22"
+                },
+                "last_changed": "2026-09-03T13:19:18.544963+00:00",
+                "last_updated": "2026-09-03T13:19:18.544963+00:00"
             }
         ],
         [
@@ -2156,6 +2264,48 @@
                 },
                 "last_changed": "2026-09-03T13:12:36.493379+00:00",
                 "last_updated": "2026-09-03T13:12:36.493379+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_metar_prediction_final_v23_shadow",
+                "state": "unavailable",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0C",
+                    "friendly_name": "RPLL METAR Prediction Final V23 Shadow"
+                },
+                "last_changed": "2026-09-03T13:19:18.316156+00:00",
+                "last_updated": "2026-09-03T13:19:18.316156+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_metar_prediction_final_v23_shadow",
+                "state": "unknown",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0C",
+                    "friendly_name": "RPLL METAR Prediction Final V23 Shadow"
+                },
+                "last_changed": "2026-09-03T13:19:18.545821+00:00",
+                "last_updated": "2026-09-03T13:19:18.545821+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_metar_prediction_final_v23_shadow",
+                "state": "26",
+                "attributes": {
+                    "estimated_temperature": 26.13,
+                    "base_estimate_v21": 25.75,
+                    "predicted_metar_v21": 26.0,
+                    "airport_bias_raw": 0.38,
+                    "airport_bias_effective": 0.38,
+                    "post_outflow_recovery": false,
+                    "weather_regime": "stable",
+                    "frozen_at_manila": "2026-09-03 21:55:30",
+                    "target_metar_manila": "2026-09-03 22:00",
+                    "target_metar_utc": "2026-09-03 14:00Z",
+                    "mode": "shadow",
+                    "version": "V2.3",
+                    "unit_of_measurement": "\u00b0C",
+                    "friendly_name": "RPLL METAR Prediction Final V23 Shadow"
+                },
+                "last_changed": "2026-09-03T13:55:30.126924+00:00",
+                "last_updated": "2026-09-03T13:55:30.126924+00:00"
             }
         ]
     ]
