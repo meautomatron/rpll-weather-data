@@ -2,9 +2,9 @@
     "schema": 4,
     "date": "2026-09-03",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-09-03T20:39:29+08:00",
+    "generated_at": "2026-09-03T21:02:07+08:00",
     "history_start": "2026-09-03T06:00:00+08:00",
-    "history_end": "2026-09-03T20:39:29+08:00",
+    "history_end": "2026-09-03T21:02:07+08:00",
     "target": "RPLL",
     "dataset": "sonoff",
     "history": [
@@ -720,6 +720,10 @@
             {
                 "state": "92.0",
                 "last_changed": "2026-09-03T12:29:10.326159+00:00"
+            },
+            {
+                "state": "93.0",
+                "last_changed": "2026-09-03T12:44:29.992595+00:00"
             }
         ]
     ]
