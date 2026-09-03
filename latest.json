@@ -2,9 +2,9 @@
     "schema": 4,
     "date": "2026-09-03",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-09-03T17:58:00+08:00",
+    "generated_at": "2026-09-03T19:34:46+08:00",
     "history_start": "2026-09-03T06:00:00+08:00",
-    "history_end": "2026-09-03T17:58:00+08:00",
+    "history_end": "2026-09-03T19:34:46+08:00",
     "target": "RPLL",
     "metar_observation_window": "approximately :45-:55",
     "files": {
@@ -18,6 +18,7 @@
         "model_state": "latest_model_state.json",
         "synop": "latest_synop.json",
         "predictions_csv": "rpll_predictions.csv",
+        "v22_predictions_csv": "rpll_v22_predictions.csv",
         "synop_csv": "rpll_synop.csv",
         "pagasa_manual_csv": "rpll_pagasa_manual.csv"
     }
