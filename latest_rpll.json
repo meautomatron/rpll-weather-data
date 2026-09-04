@@ -2,9 +2,9 @@
     "schema": 4,
     "date": "2026-09-04",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-09-04T11:04:41+08:00",
+    "generated_at": "2026-09-04T11:42:21+08:00",
     "history_start": "2026-09-04T06:00:00+08:00",
-    "history_end": "2026-09-04T11:04:41+08:00",
+    "history_end": "2026-09-04T11:42:21+08:00",
     "target": "RPLL",
     "dataset": "rpll_metar",
     "history": [
