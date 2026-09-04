@@ -2,9 +2,9 @@
     "schema": 4,
     "date": "2026-09-04",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-09-04T12:06:38+08:00",
+    "generated_at": "2026-09-04T14:11:24+08:00",
     "history_start": "2026-09-04T06:00:00+08:00",
-    "history_end": "2026-09-04T12:06:38+08:00",
+    "history_end": "2026-09-04T14:11:24+08:00",
     "target": "RPLL",
     "dataset": "rpll_metar",
     "history": [
@@ -43,6 +43,22 @@
             {
                 "state": "METAR RPLL 040400Z 25017KT 5000 RA BKN022 OVC070 27/27 Q1009 TEMPO 7000 -RA RMK A2980",
                 "last_changed": "2026-09-04T04:04:40.691661+00:00"
+            },
+            {
+                "state": "SPECI RPLL 040420Z COR 26018KT 4000 -RA BR FEW020CB BKN022 OVC070 27/27 Q1008 RERA NOSIG RMK A2977 CB S",
+                "last_changed": "2026-09-04T04:34:50.857461+00:00"
+            },
+            {
+                "state": "SPECI RPLL 040420Z 26018KT 4000 -RA BR FEW020CB BKN022 OVC070 27/27 Q1008 RERA NOSIG RMK A2977 CB S",
+                "last_changed": "2026-09-04T05:00:00.754144+00:00"
+            },
+            {
+                "state": "METAR RPLL 040500Z 26013KT 9000 -RA FEW020CB SCT023 OVC090 27/27 Q1007 REBR NOSIG RMK A2974 CB SE",
+                "last_changed": "2026-09-04T05:03:12.565009+00:00"
+            },
+            {
+                "state": "METAR RPLL 040600Z 26011KT 9999 FEW023 OVC100 28/27 Q1007 NOSIG RMK A2974",
+                "last_changed": "2026-09-04T06:05:28.994187+00:00"
             }
         ],
         [
@@ -76,6 +92,10 @@
             {
                 "state": "27.0",
                 "last_changed": "2026-09-04T04:04:40.687555+00:00"
+            },
+            {
+                "state": "28.0",
+                "last_changed": "2026-09-04T06:05:28.990427+00:00"
             }
         ],
         [
@@ -122,6 +142,10 @@
             {
                 "state": "100.0",
                 "last_changed": "2026-09-04T04:04:40.690913+00:00"
+            },
+            {
+                "state": "94.3",
+                "last_changed": "2026-09-04T06:05:28.993446+00:00"
             }
         ],
         [
@@ -143,6 +167,14 @@
             {
                 "state": "1009.0",
                 "last_changed": "2026-09-04T00:09:28.241466+00:00"
+            },
+            {
+                "state": "1008.0",
+                "last_changed": "2026-09-04T04:34:50.856228+00:00"
+            },
+            {
+                "state": "1007.0",
+                "last_changed": "2026-09-04T05:03:12.563885+00:00"
             }
         ],
         [
@@ -176,6 +208,18 @@
             {
                 "state": "5.0",
                 "last_changed": "2026-09-04T04:04:40.690282+00:00"
+            },
+            {
+                "state": "4.0",
+                "last_changed": "2026-09-04T04:34:50.855847+00:00"
+            },
+            {
+                "state": "9.0",
+                "last_changed": "2026-09-04T05:03:12.563494+00:00"
+            },
+            {
+                "state": "10.0",
+                "last_changed": "2026-09-04T06:05:28.992795+00:00"
             }
         ],
         [
@@ -201,6 +245,18 @@
             {
                 "state": "rain",
                 "last_changed": "2026-09-04T04:04:40.691048+00:00"
+            },
+            {
+                "state": "light_rain_mist_recent_rain",
+                "last_changed": "2026-09-04T04:34:50.856760+00:00"
+            },
+            {
+                "state": "light_rain",
+                "last_changed": "2026-09-04T05:03:12.564368+00:00"
+            },
+            {
+                "state": "clear",
+                "last_changed": "2026-09-04T06:05:28.993586+00:00"
             }
         ],
         [
@@ -234,6 +290,10 @@
             {
                 "state": "250.0",
                 "last_changed": "2026-09-04T04:04:40.689919+00:00"
+            },
+            {
+                "state": "260.0",
+                "last_changed": "2026-09-04T04:34:50.855435+00:00"
             }
         ],
         [
@@ -271,6 +331,18 @@
             {
                 "state": "31.484",
                 "last_changed": "2026-09-04T04:04:40.688792+00:00"
+            },
+            {
+                "state": "33.336",
+                "last_changed": "2026-09-04T04:34:50.854392+00:00"
+            },
+            {
+                "state": "24.076",
+                "last_changed": "2026-09-04T05:03:12.562265+00:00"
+            },
+            {
+                "state": "20.372",
+                "last_changed": "2026-09-04T06:05:28.991312+00:00"
             }
         ],
         [
@@ -334,6 +406,14 @@
             {
                 "state": "670.56",
                 "last_changed": "2026-09-04T04:04:40.691408+00:00"
+            },
+            {
+                "state": "609.6",
+                "last_changed": "2026-09-04T04:34:50.857215+00:00"
+            },
+            {
+                "state": "701.04",
+                "last_changed": "2026-09-04T06:05:28.993959+00:00"
             }
         ],
         [
@@ -363,6 +443,10 @@
             {
                 "state": "broken",
                 "last_changed": "2026-09-04T04:04:40.691286+00:00"
+            },
+            {
+                "state": "few",
+                "last_changed": "2026-09-04T04:34:50.857059+00:00"
             }
         ],
         [
@@ -380,6 +464,14 @@
             {
                 "state": "none",
                 "last_changed": "2026-09-04T02:02:33.055273+00:00"
+            },
+            {
+                "state": "cumulonimbus",
+                "last_changed": "2026-09-04T04:34:50.857343+00:00"
+            },
+            {
+                "state": "none",
+                "last_changed": "2026-09-04T06:05:28.994074+00:00"
             }
         ],
         [
@@ -417,6 +509,18 @@
             {
                 "state": "Broken 2200ft, Overcast 7000ft",
                 "last_changed": "2026-09-04T04:04:40.691173+00:00"
+            },
+            {
+                "state": "Few 2000ft (Cumulonimbus), Broken 2200ft, Overcast 7000ft",
+                "last_changed": "2026-09-04T04:34:50.856923+00:00"
+            },
+            {
+                "state": "Few 2000ft (Cumulonimbus), Scattered 2300ft, Overcast 9000ft",
+                "last_changed": "2026-09-04T05:03:12.564506+00:00"
+            },
+            {
+                "state": "Few 2300ft, Overcast 10000ft",
+                "last_changed": "2026-09-04T06:05:28.993703+00:00"
             }
         ],
         [
@@ -439,6 +543,10 @@
             {
                 "state": "TEMPO 7000 -RA",
                 "last_changed": "2026-09-04T04:04:40.697496+00:00"
+            },
+            {
+                "state": "NOSIG",
+                "last_changed": "2026-09-04T04:34:50.864034+00:00"
             }
         ]
     ]
