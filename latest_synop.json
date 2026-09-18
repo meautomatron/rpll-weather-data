@@ -1,134 +1,14 @@
 {
     "schema": 4,
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "timezone": "Asia/Manila",
-    "generated_at": "2026-09-17T17:58:00+08:00",
-    "history_start": "2026-09-16T17:00:00+08:00",
-    "history_end": "2026-09-17T17:58:00+08:00",
+    "generated_at": "2026-09-18T17:58:00+08:00",
+    "history_start": "2026-09-17T17:00:00+08:00",
+    "history_end": "2026-09-18T17:58:00+08:00",
     "target": "RPLL",
     "dataset": "synop",
     "history": [
         [
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "30.5",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-16T09:00:00+00:00",
-                "last_updated": "2026-09-16T09:00:00+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "28.1",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-16T09:40:56.801340+00:00",
-                "last_updated": "2026-09-16T09:40:56.801340+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "28.8",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-16T12:40:57.807818+00:00",
-                "last_updated": "2026-09-16T12:40:57.807818+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "unavailable",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-16T12:56:00.371244+00:00",
-                "last_updated": "2026-09-16T12:56:00.371244+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "28.8",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-16T13:11:00.837996+00:00",
-                "last_updated": "2026-09-16T13:11:00.837996+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "26.0",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-16T15:41:01.112239+00:00",
-                "last_updated": "2026-09-16T15:41:01.112239+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "25.5",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-16T18:56:01.082294+00:00",
-                "last_updated": "2026-09-16T18:56:01.082294+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "25.9",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-16T21:41:01.901373+00:00",
-                "last_updated": "2026-09-16T21:41:01.901373+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "27.7",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-17T00:56:05.003792+00:00",
-                "last_updated": "2026-09-17T00:56:05.003792+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_temperature",
-                "state": "30.5",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Temperature"
-                },
-                "last_changed": "2026-09-17T03:41:04.875197+00:00",
-                "last_updated": "2026-09-17T03:41:04.875197+00:00"
-            },
             {
                 "entity_id": "sensor.rpll_synop_temperature",
                 "state": "31.2",
@@ -138,8 +18,8 @@
                     "device_class": "temperature",
                     "friendly_name": "RPLL SYNOP Temperature"
                 },
-                "last_changed": "2026-09-17T06:56:04.831900+00:00",
-                "last_updated": "2026-09-17T06:56:04.831900+00:00"
+                "last_changed": "2026-09-17T09:00:00+00:00",
+                "last_updated": "2026-09-17T09:00:00+00:00"
             },
             {
                 "entity_id": "sensor.rpll_synop_temperature",
@@ -152,93 +32,165 @@
                 },
                 "last_changed": "2026-09-17T09:26:06.489824+00:00",
                 "last_updated": "2026-09-17T09:26:06.489824+00:00"
-            }
-        ],
-        [
-            {
-                "entity_id": "sensor.rpll_synop_dew_point",
-                "state": "27.0",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
-                },
-                "last_changed": "2026-09-16T09:00:00+00:00",
-                "last_updated": "2026-09-16T09:00:00+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_dew_point",
-                "state": "25.8",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
-                },
-                "last_changed": "2026-09-16T09:40:56.801824+00:00",
-                "last_updated": "2026-09-16T09:40:56.801824+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_dew_point",
-                "state": "26.7",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
-                },
-                "last_changed": "2026-09-16T12:40:57.808183+00:00",
-                "last_updated": "2026-09-16T12:40:57.808183+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_dew_point",
+                "entity_id": "sensor.rpll_synop_temperature",
                 "state": "unavailable",
                 "attributes": {
                     "state_class": "measurement",
                     "unit_of_measurement": "\u00b0C",
                     "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
+                    "friendly_name": "RPLL SYNOP Temperature"
                 },
-                "last_changed": "2026-09-16T12:56:00.371488+00:00",
-                "last_updated": "2026-09-16T12:56:00.371488+00:00"
+                "last_changed": "2026-09-17T10:11:08.960131+00:00",
+                "last_updated": "2026-09-17T10:11:08.960131+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_dew_point",
-                "state": "26.7",
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "26.5",
                 "attributes": {
                     "state_class": "measurement",
                     "unit_of_measurement": "\u00b0C",
                     "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
+                    "friendly_name": "RPLL SYNOP Temperature"
                 },
-                "last_changed": "2026-09-16T13:11:00.838361+00:00",
-                "last_updated": "2026-09-16T13:11:00.838361+00:00"
+                "last_changed": "2026-09-17T10:26:09.103029+00:00",
+                "last_updated": "2026-09-17T10:26:09.103029+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_dew_point",
-                "state": "24.8",
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "26.9",
                 "attributes": {
                     "state_class": "measurement",
                     "unit_of_measurement": "\u00b0C",
                     "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
+                    "friendly_name": "RPLL SYNOP Temperature"
                 },
-                "last_changed": "2026-09-16T15:41:01.112636+00:00",
-                "last_updated": "2026-09-16T15:41:01.112636+00:00"
+                "last_changed": "2026-09-17T12:41:09.840919+00:00",
+                "last_updated": "2026-09-17T12:41:09.840919+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_dew_point",
-                "state": "24.7",
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "27.2",
                 "attributes": {
                     "state_class": "measurement",
                     "unit_of_measurement": "\u00b0C",
                     "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
+                    "friendly_name": "RPLL SYNOP Temperature"
                 },
-                "last_changed": "2026-09-16T18:56:01.082804+00:00",
-                "last_updated": "2026-09-16T18:56:01.082804+00:00"
+                "last_changed": "2026-09-17T15:26:13.014459+00:00",
+                "last_updated": "2026-09-17T15:26:13.014459+00:00"
             },
+            {
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "27.2",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Temperature"
+                },
+                "last_changed": "2026-09-17T16:03:20.449297+00:00",
+                "last_updated": "2026-09-17T16:03:20.449297+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "27.2",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Temperature"
+                },
+                "last_changed": "2026-09-17T16:18:28.964223+00:00",
+                "last_updated": "2026-09-17T16:18:28.964223+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "27.2",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Temperature"
+                },
+                "last_changed": "2026-09-17T16:32:12.052913+00:00",
+                "last_updated": "2026-09-17T16:32:12.052913+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "26.2",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Temperature"
+                },
+                "last_changed": "2026-09-17T18:48:57.526099+00:00",
+                "last_updated": "2026-09-17T18:48:57.526099+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "25.8",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Temperature"
+                },
+                "last_changed": "2026-09-17T21:34:02.512546+00:00",
+                "last_updated": "2026-09-17T21:34:02.512546+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "29.0",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Temperature"
+                },
+                "last_changed": "2026-09-18T00:49:02.668859+00:00",
+                "last_updated": "2026-09-18T00:49:02.668859+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "31.5",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Temperature"
+                },
+                "last_changed": "2026-09-18T03:34:03.882241+00:00",
+                "last_updated": "2026-09-18T03:34:03.882241+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "29.9",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Temperature"
+                },
+                "last_changed": "2026-09-18T06:34:03.914823+00:00",
+                "last_updated": "2026-09-18T06:34:03.914823+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_temperature",
+                "state": "27.4",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Temperature"
+                },
+                "last_changed": "2026-09-18T09:19:07.703132+00:00",
+                "last_updated": "2026-09-18T09:19:07.703132+00:00"
+            }
+        ],
+        [
             {
                 "entity_id": "sensor.rpll_synop_dew_point",
                 "state": "25.2",
@@ -248,44 +200,8 @@
                     "device_class": "temperature",
                     "friendly_name": "RPLL SYNOP Dew Point"
                 },
-                "last_changed": "2026-09-16T21:41:01.901759+00:00",
-                "last_updated": "2026-09-16T21:41:01.901759+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_dew_point",
-                "state": "25.7",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
-                },
-                "last_changed": "2026-09-17T00:56:05.004195+00:00",
-                "last_updated": "2026-09-17T00:56:05.004195+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_dew_point",
-                "state": "24.7",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
-                },
-                "last_changed": "2026-09-17T03:41:04.875727+00:00",
-                "last_updated": "2026-09-17T03:41:04.875727+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_dew_point",
-                "state": "25.2",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "\u00b0C",
-                    "device_class": "temperature",
-                    "friendly_name": "RPLL SYNOP Dew Point"
-                },
-                "last_changed": "2026-09-17T06:56:04.832453+00:00",
-                "last_updated": "2026-09-17T06:56:04.832453+00:00"
+                "last_changed": "2026-09-17T09:00:00+00:00",
+                "last_updated": "2026-09-17T09:00:00+00:00"
             },
             {
                 "entity_id": "sensor.rpll_synop_dew_point",
@@ -298,117 +214,165 @@
                 },
                 "last_changed": "2026-09-17T09:26:06.490281+00:00",
                 "last_updated": "2026-09-17T09:26:06.490281+00:00"
-            }
-        ],
-        [
-            {
-                "entity_id": "sensor.rpll_synop_pressure",
-                "state": "1006.9",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "hPa",
-                    "device_class": "atmospheric_pressure",
-                    "friendly_name": "RPLL SYNOP Pressure"
-                },
-                "last_changed": "2026-09-16T09:00:00+00:00",
-                "last_updated": "2026-09-16T09:00:00+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_pressure",
-                "state": "1007.6",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "hPa",
-                    "device_class": "atmospheric_pressure",
-                    "friendly_name": "RPLL SYNOP Pressure"
-                },
-                "last_changed": "2026-09-16T09:40:56.802182+00:00",
-                "last_updated": "2026-09-16T09:40:56.802182+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_pressure",
-                "state": "1009.2",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "hPa",
-                    "device_class": "atmospheric_pressure",
-                    "friendly_name": "RPLL SYNOP Pressure"
-                },
-                "last_changed": "2026-09-16T12:40:57.808654+00:00",
-                "last_updated": "2026-09-16T12:40:57.808654+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_pressure",
+                "entity_id": "sensor.rpll_synop_dew_point",
                 "state": "unavailable",
                 "attributes": {
                     "state_class": "measurement",
-                    "unit_of_measurement": "hPa",
-                    "device_class": "atmospheric_pressure",
-                    "friendly_name": "RPLL SYNOP Pressure"
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
                 },
-                "last_changed": "2026-09-16T12:56:00.371643+00:00",
-                "last_updated": "2026-09-16T12:56:00.371643+00:00"
+                "last_changed": "2026-09-17T10:11:08.960361+00:00",
+                "last_updated": "2026-09-17T10:11:08.960361+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_pressure",
-                "state": "1009.2",
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "26.3",
                 "attributes": {
                     "state_class": "measurement",
-                    "unit_of_measurement": "hPa",
-                    "device_class": "atmospheric_pressure",
-                    "friendly_name": "RPLL SYNOP Pressure"
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
                 },
-                "last_changed": "2026-09-16T13:11:00.838634+00:00",
-                "last_updated": "2026-09-16T13:11:00.838634+00:00"
+                "last_changed": "2026-09-17T10:26:09.103507+00:00",
+                "last_updated": "2026-09-17T10:26:09.103507+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_pressure",
-                "state": "1009.9",
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "26.4",
                 "attributes": {
                     "state_class": "measurement",
-                    "unit_of_measurement": "hPa",
-                    "device_class": "atmospheric_pressure",
-                    "friendly_name": "RPLL SYNOP Pressure"
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
                 },
-                "last_changed": "2026-09-16T15:41:01.112910+00:00",
-                "last_updated": "2026-09-16T15:41:01.112910+00:00"
+                "last_changed": "2026-09-17T12:41:09.841388+00:00",
+                "last_updated": "2026-09-17T12:41:09.841388+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_pressure",
-                "state": "1009.4",
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "25.1",
                 "attributes": {
                     "state_class": "measurement",
-                    "unit_of_measurement": "hPa",
-                    "device_class": "atmospheric_pressure",
-                    "friendly_name": "RPLL SYNOP Pressure"
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
                 },
-                "last_changed": "2026-09-16T18:56:01.083179+00:00",
-                "last_updated": "2026-09-16T18:56:01.083179+00:00"
+                "last_changed": "2026-09-17T15:26:13.015066+00:00",
+                "last_updated": "2026-09-17T15:26:13.015066+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_pressure",
-                "state": "1007.8",
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "25.1",
                 "attributes": {
                     "state_class": "measurement",
-                    "unit_of_measurement": "hPa",
-                    "device_class": "atmospheric_pressure",
-                    "friendly_name": "RPLL SYNOP Pressure"
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
                 },
-                "last_changed": "2026-09-16T21:41:01.902009+00:00",
-                "last_updated": "2026-09-16T21:41:01.902009+00:00"
+                "last_changed": "2026-09-17T16:03:20.458790+00:00",
+                "last_updated": "2026-09-17T16:03:20.458790+00:00"
             },
             {
-                "entity_id": "sensor.rpll_synop_pressure",
-                "state": "1009.3",
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "25.1",
                 "attributes": {
                     "state_class": "measurement",
-                    "unit_of_measurement": "hPa",
-                    "device_class": "atmospheric_pressure",
-                    "friendly_name": "RPLL SYNOP Pressure"
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
                 },
-                "last_changed": "2026-09-17T00:56:05.004487+00:00",
-                "last_updated": "2026-09-17T00:56:05.004487+00:00"
+                "last_changed": "2026-09-17T16:18:28.991718+00:00",
+                "last_updated": "2026-09-17T16:18:28.991718+00:00"
             },
+            {
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "25.1",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
+                },
+                "last_changed": "2026-09-17T16:32:12.064001+00:00",
+                "last_updated": "2026-09-17T16:32:12.064001+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "25.9",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
+                },
+                "last_changed": "2026-09-17T18:48:57.526543+00:00",
+                "last_updated": "2026-09-17T18:48:57.526543+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "25.8",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
+                },
+                "last_changed": "2026-09-17T21:34:02.513037+00:00",
+                "last_updated": "2026-09-17T21:34:02.513037+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "25.9",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
+                },
+                "last_changed": "2026-09-18T00:49:02.669388+00:00",
+                "last_updated": "2026-09-18T00:49:02.669388+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "24.5",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
+                },
+                "last_changed": "2026-09-18T03:34:03.882642+00:00",
+                "last_updated": "2026-09-18T03:34:03.882642+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "23.5",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
+                },
+                "last_changed": "2026-09-18T06:34:03.915497+00:00",
+                "last_updated": "2026-09-18T06:34:03.915497+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_dew_point",
+                "state": "25.3",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "\u00b0C",
+                    "device_class": "temperature",
+                    "friendly_name": "RPLL SYNOP Dew Point"
+                },
+                "last_changed": "2026-09-18T09:19:07.703614+00:00",
+                "last_updated": "2026-09-18T09:19:07.703614+00:00"
+            }
+        ],
+        [
             {
                 "entity_id": "sensor.rpll_synop_pressure",
                 "state": "1008.8",
@@ -418,8 +382,8 @@
                     "device_class": "atmospheric_pressure",
                     "friendly_name": "RPLL SYNOP Pressure"
                 },
-                "last_changed": "2026-09-17T03:41:04.876099+00:00",
-                "last_updated": "2026-09-17T03:41:04.876099+00:00"
+                "last_changed": "2026-09-17T09:00:00+00:00",
+                "last_updated": "2026-09-17T09:00:00+00:00"
             },
             {
                 "entity_id": "sensor.rpll_synop_pressure",
@@ -432,89 +396,153 @@
                 },
                 "last_changed": "2026-09-17T09:26:06.490561+00:00",
                 "last_updated": "2026-09-17T09:26:06.490561+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "unavailable",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-17T10:11:08.960470+00:00",
+                "last_updated": "2026-09-17T10:11:08.960470+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1008.5",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-17T10:26:09.103940+00:00",
+                "last_updated": "2026-09-17T10:26:09.103940+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1009.7",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-17T12:41:09.841742+00:00",
+                "last_updated": "2026-09-17T12:41:09.841742+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1010.9",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-17T15:26:13.015597+00:00",
+                "last_updated": "2026-09-17T15:26:13.015597+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1010.9",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-17T16:03:20.468372+00:00",
+                "last_updated": "2026-09-17T16:03:20.468372+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1010.9",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-17T16:18:29.000025+00:00",
+                "last_updated": "2026-09-17T16:18:29.000025+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1010.9",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-17T16:32:12.073911+00:00",
+                "last_updated": "2026-09-17T16:32:12.073911+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1009.8",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-17T18:48:57.526879+00:00",
+                "last_updated": "2026-09-17T18:48:57.526879+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1010.6",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-18T00:49:02.669770+00:00",
+                "last_updated": "2026-09-18T00:49:02.669770+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1011.3",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-18T03:34:03.882978+00:00",
+                "last_updated": "2026-09-18T03:34:03.882978+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1009.1",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-18T06:34:03.915977+00:00",
+                "last_updated": "2026-09-18T06:34:03.915977+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_pressure",
+                "state": "1009.9",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "hPa",
+                    "device_class": "atmospheric_pressure",
+                    "friendly_name": "RPLL SYNOP Pressure"
+                },
+                "last_changed": "2026-09-18T09:19:07.703971+00:00",
+                "last_updated": "2026-09-18T09:19:07.703971+00:00"
             }
         ],
         [
-            {
-                "entity_id": "sensor.rpll_synop_wind_direction",
-                "state": "270",
-                "attributes": {
-                    "unit_of_measurement": "\u00b0",
-                    "friendly_name": "RPLL SYNOP Wind Direction"
-                },
-                "last_changed": "2026-09-16T09:00:00+00:00",
-                "last_updated": "2026-09-16T09:00:00+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_direction",
-                "state": "260",
-                "attributes": {
-                    "unit_of_measurement": "\u00b0",
-                    "friendly_name": "RPLL SYNOP Wind Direction"
-                },
-                "last_changed": "2026-09-16T09:40:56.802516+00:00",
-                "last_updated": "2026-09-16T09:40:56.802516+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_direction",
-                "state": "unavailable",
-                "attributes": {
-                    "unit_of_measurement": "\u00b0",
-                    "friendly_name": "RPLL SYNOP Wind Direction"
-                },
-                "last_changed": "2026-09-16T12:56:00.371768+00:00",
-                "last_updated": "2026-09-16T12:56:00.371768+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_direction",
-                "state": "260",
-                "attributes": {
-                    "unit_of_measurement": "\u00b0",
-                    "friendly_name": "RPLL SYNOP Wind Direction"
-                },
-                "last_changed": "2026-09-16T13:11:00.838907+00:00",
-                "last_updated": "2026-09-16T13:11:00.838907+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_direction",
-                "state": "270",
-                "attributes": {
-                    "unit_of_measurement": "\u00b0",
-                    "friendly_name": "RPLL SYNOP Wind Direction"
-                },
-                "last_changed": "2026-09-16T18:56:01.083520+00:00",
-                "last_updated": "2026-09-16T18:56:01.083520+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_direction",
-                "state": "90",
-                "attributes": {
-                    "unit_of_measurement": "\u00b0",
-                    "friendly_name": "RPLL SYNOP Wind Direction"
-                },
-                "last_changed": "2026-09-16T21:41:01.902234+00:00",
-                "last_updated": "2026-09-16T21:41:01.902234+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_direction",
-                "state": "220",
-                "attributes": {
-                    "unit_of_measurement": "\u00b0",
-                    "friendly_name": "RPLL SYNOP Wind Direction"
-                },
-                "last_changed": "2026-09-17T00:56:05.004771+00:00",
-                "last_updated": "2026-09-17T00:56:05.004771+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_direction",
-                "state": "320",
-                "attributes": {
-                    "unit_of_measurement": "\u00b0",
-                    "friendly_name": "RPLL SYNOP Wind Direction"
-                },
-                "last_changed": "2026-09-17T03:41:04.876424+00:00",
-                "last_updated": "2026-09-17T03:41:04.876424+00:00"
-            },
             {
                 "entity_id": "sensor.rpll_synop_wind_direction",
                 "state": "70",
@@ -522,8 +550,8 @@
                     "unit_of_measurement": "\u00b0",
                     "friendly_name": "RPLL SYNOP Wind Direction"
                 },
-                "last_changed": "2026-09-17T06:56:04.833307+00:00",
-                "last_updated": "2026-09-17T06:56:04.833307+00:00"
+                "last_changed": "2026-09-17T09:00:00+00:00",
+                "last_updated": "2026-09-17T09:00:00+00:00"
             },
             {
                 "entity_id": "sensor.rpll_synop_wind_direction",
@@ -534,85 +562,149 @@
                 },
                 "last_changed": "2026-09-17T09:26:06.490801+00:00",
                 "last_updated": "2026-09-17T09:26:06.490801+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "unavailable",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-17T10:11:08.960568+00:00",
+                "last_updated": "2026-09-17T10:11:08.960568+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "130",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-17T10:26:09.104276+00:00",
+                "last_updated": "2026-09-17T10:26:09.104276+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "50",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-17T12:41:09.842065+00:00",
+                "last_updated": "2026-09-17T12:41:09.842065+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "20",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-17T15:26:13.016127+00:00",
+                "last_updated": "2026-09-17T15:26:13.016127+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "20",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-17T16:03:20.475699+00:00",
+                "last_updated": "2026-09-17T16:03:20.475699+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "20",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-17T16:18:29.006372+00:00",
+                "last_updated": "2026-09-17T16:18:29.006372+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "20",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-17T16:32:12.081037+00:00",
+                "last_updated": "2026-09-17T16:32:12.081037+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "190",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-17T18:48:57.527190+00:00",
+                "last_updated": "2026-09-17T18:48:57.527190+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "0",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-17T22:19:02.511519+00:00",
+                "last_updated": "2026-09-17T22:19:02.511519+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "170",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-18T00:49:02.670124+00:00",
+                "last_updated": "2026-09-18T00:49:02.670124+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "160",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-18T03:34:03.883371+00:00",
+                "last_updated": "2026-09-18T03:34:03.883371+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "10",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-18T06:34:03.916485+00:00",
+                "last_updated": "2026-09-18T06:34:03.916485+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_direction",
+                "state": "120",
+                "attributes": {
+                    "unit_of_measurement": "\u00b0",
+                    "friendly_name": "RPLL SYNOP Wind Direction"
+                },
+                "last_changed": "2026-09-18T09:19:07.704298+00:00",
+                "last_updated": "2026-09-18T09:19:07.704298+00:00"
             }
         ],
         [
             {
                 "entity_id": "sensor.rpll_synop_wind_speed",
-                "state": "10.8",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "km/h",
-                    "friendly_name": "RPLL SYNOP Wind Speed"
-                },
-                "last_changed": "2026-09-16T09:00:00+00:00",
-                "last_updated": "2026-09-16T09:00:00+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_speed",
                 "state": "7.2",
                 "attributes": {
                     "state_class": "measurement",
                     "unit_of_measurement": "km/h",
                     "friendly_name": "RPLL SYNOP Wind Speed"
                 },
-                "last_changed": "2026-09-16T12:40:57.809092+00:00",
-                "last_updated": "2026-09-16T12:40:57.809092+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_speed",
-                "state": "unavailable",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "km/h",
-                    "friendly_name": "RPLL SYNOP Wind Speed"
-                },
-                "last_changed": "2026-09-16T12:56:00.371871+00:00",
-                "last_updated": "2026-09-16T12:56:00.371871+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_speed",
-                "state": "7.2",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "km/h",
-                    "friendly_name": "RPLL SYNOP Wind Speed"
-                },
-                "last_changed": "2026-09-16T13:11:00.839231+00:00",
-                "last_updated": "2026-09-16T13:11:00.839231+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_speed",
-                "state": "10.8",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "km/h",
-                    "friendly_name": "RPLL SYNOP Wind Speed"
-                },
-                "last_changed": "2026-09-16T15:41:01.113330+00:00",
-                "last_updated": "2026-09-16T15:41:01.113330+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_speed",
-                "state": "3.6",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "km/h",
-                    "friendly_name": "RPLL SYNOP Wind Speed"
-                },
-                "last_changed": "2026-09-16T18:56:01.083899+00:00",
-                "last_updated": "2026-09-16T18:56:01.083899+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_wind_speed",
-                "state": "7.2",
-                "attributes": {
-                    "state_class": "measurement",
-                    "unit_of_measurement": "km/h",
-                    "friendly_name": "RPLL SYNOP Wind Speed"
-                },
-                "last_changed": "2026-09-16T21:41:01.902464+00:00",
-                "last_updated": "2026-09-16T21:41:01.902464+00:00"
+                "last_changed": "2026-09-17T09:00:00+00:00",
+                "last_updated": "2026-09-17T09:00:00+00:00"
             },
             {
                 "entity_id": "sensor.rpll_synop_wind_speed",
@@ -624,109 +716,141 @@
                 },
                 "last_changed": "2026-09-17T09:26:06.491035+00:00",
                 "last_updated": "2026-09-17T09:26:06.491035+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "unavailable",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-17T10:11:08.960655+00:00",
+                "last_updated": "2026-09-17T10:11:08.960655+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "3.6",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-17T10:26:09.104589+00:00",
+                "last_updated": "2026-09-17T10:26:09.104589+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "7.2",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-17T15:26:13.016510+00:00",
+                "last_updated": "2026-09-17T15:26:13.016510+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "7.2",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-17T16:03:20.484359+00:00",
+                "last_updated": "2026-09-17T16:03:20.484359+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "7.2",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-17T16:18:29.015021+00:00",
+                "last_updated": "2026-09-17T16:18:29.015021+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "7.2",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-17T16:32:12.090117+00:00",
+                "last_updated": "2026-09-17T16:32:12.090117+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "3.6",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-17T18:48:57.527512+00:00",
+                "last_updated": "2026-09-17T18:48:57.527512+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "0.0",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-17T21:34:02.528655+00:00",
+                "last_updated": "2026-09-17T21:34:02.528655+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "3.6",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-18T00:49:02.670468+00:00",
+                "last_updated": "2026-09-18T00:49:02.670468+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "7.2",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-18T03:34:03.883681+00:00",
+                "last_updated": "2026-09-18T03:34:03.883681+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "14.4",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-18T06:34:03.917935+00:00",
+                "last_updated": "2026-09-18T06:34:03.917935+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_wind_speed",
+                "state": "10.8",
+                "attributes": {
+                    "state_class": "measurement",
+                    "unit_of_measurement": "km/h",
+                    "friendly_name": "RPLL SYNOP Wind Speed"
+                },
+                "last_changed": "2026-09-18T09:19:07.704711+00:00",
+                "last_updated": "2026-09-18T09:19:07.704711+00:00"
             }
         ],
         [
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "2026-09-16T06:00:00+00:00",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-16T09:00:00+00:00",
-                "last_updated": "2026-09-16T09:00:00+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "2026-09-16T09:00:00+00:00",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-16T09:40:56.803112+00:00",
-                "last_updated": "2026-09-16T09:40:56.803112+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "2026-09-16T12:00:00+00:00",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-16T12:40:57.809315+00:00",
-                "last_updated": "2026-09-16T12:40:57.809315+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "unavailable",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-16T12:56:00.371976+00:00",
-                "last_updated": "2026-09-16T12:56:00.371976+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "2026-09-16T12:00:00+00:00",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-16T13:11:00.839523+00:00",
-                "last_updated": "2026-09-16T13:11:00.839523+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "2026-09-16T15:00:00+00:00",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-16T15:41:01.113570+00:00",
-                "last_updated": "2026-09-16T15:41:01.113570+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "2026-09-16T18:00:00+00:00",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-16T18:56:01.084245+00:00",
-                "last_updated": "2026-09-16T18:56:01.084245+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "2026-09-16T21:00:00+00:00",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-16T21:41:01.902692+00:00",
-                "last_updated": "2026-09-16T21:41:01.902692+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "2026-09-17T00:00:00+00:00",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-17T00:56:05.005346+00:00",
-                "last_updated": "2026-09-17T00:56:05.005346+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_observation_time",
-                "state": "2026-09-17T03:00:00+00:00",
-                "attributes": {
-                    "device_class": "timestamp",
-                    "friendly_name": "RPLL SYNOP Observation Time"
-                },
-                "last_changed": "2026-09-17T03:41:04.876992+00:00",
-                "last_updated": "2026-09-17T03:41:04.876992+00:00"
-            },
             {
                 "entity_id": "sensor.rpll_synop_observation_time",
                 "state": "2026-09-17T06:00:00+00:00",
@@ -734,8 +858,8 @@
                     "device_class": "timestamp",
                     "friendly_name": "RPLL SYNOP Observation Time"
                 },
-                "last_changed": "2026-09-17T06:56:04.833809+00:00",
-                "last_updated": "2026-09-17T06:56:04.833809+00:00"
+                "last_changed": "2026-09-17T09:00:00+00:00",
+                "last_updated": "2026-09-17T09:00:00+00:00"
             },
             {
                 "entity_id": "sensor.rpll_synop_observation_time",
@@ -746,170 +870,147 @@
                 },
                 "last_changed": "2026-09-17T09:26:06.491283+00:00",
                 "last_updated": "2026-09-17T09:26:06.491283+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "unavailable",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-17T10:11:08.960737+00:00",
+                "last_updated": "2026-09-17T10:11:08.960737+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-17T09:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-17T10:26:09.104880+00:00",
+                "last_updated": "2026-09-17T10:26:09.104880+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-17T12:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-17T12:41:09.842624+00:00",
+                "last_updated": "2026-09-17T12:41:09.842624+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-17T15:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-17T15:26:13.016870+00:00",
+                "last_updated": "2026-09-17T15:26:13.016870+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-17T15:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-17T16:03:20.489885+00:00",
+                "last_updated": "2026-09-17T16:03:20.489885+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-17T15:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-17T16:18:29.019843+00:00",
+                "last_updated": "2026-09-17T16:18:29.019843+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-17T15:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-17T16:32:12.095053+00:00",
+                "last_updated": "2026-09-17T16:32:12.095053+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-17T18:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-17T18:48:57.527835+00:00",
+                "last_updated": "2026-09-17T18:48:57.527835+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-17T21:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-17T21:34:02.529033+00:00",
+                "last_updated": "2026-09-17T21:34:02.529033+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-18T00:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-18T00:49:02.670804+00:00",
+                "last_updated": "2026-09-18T00:49:02.670804+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-18T03:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-18T03:34:03.883912+00:00",
+                "last_updated": "2026-09-18T03:34:03.883912+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-18T06:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-18T06:34:03.918486+00:00",
+                "last_updated": "2026-09-18T06:34:03.918486+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_observation_time",
+                "state": "2026-09-18T09:00:00+00:00",
+                "attributes": {
+                    "device_class": "timestamp",
+                    "friendly_name": "RPLL SYNOP Observation Time"
+                },
+                "last_changed": "2026-09-18T09:19:07.705036+00:00",
+                "last_updated": "2026-09-18T09:19:07.705036+00:00"
             }
         ],
         [
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16061 98429 11559 62703 10305 20270 40069 57023 69951 72581 83970 333 83625 85360 81923==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T09:00:00+00:00",
-                "last_updated": "2026-09-16T09:00:00+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16091 98429 21560 72603 10281 20258 40076 53007 79598 8797/ 333 60007==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T09:40:56.804788+00:00",
-                "last_updated": "2026-09-16T09:40:56.804788+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16091 98429 41560 72603 10281 20258 40076 53007 79598 8597/ 333 87460 83922==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T10:10:57.802139+00:00",
-                "last_updated": "2026-09-16T10:10:57.802139+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16121 98429 11560 72602 10288 20267 40092 53016 60001 70398 87530 333 10327 58003==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T12:40:57.810407+00:00",
-                "last_updated": "2026-09-16T12:40:57.810407+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "unavailable",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T12:56:00.372704+00:00",
-                "last_updated": "2026-09-16T12:56:00.372704+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16121 98429 11560 72602 10288 20267 40092 53016 60001 70398 83530 333 10327 58003 83623 87359==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T13:11:00.840880+00:00",
-                "last_updated": "2026-09-16T13:11:00.840880+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16151 98429 21560 62603 10260 20248 40099 52007 70182 8393/ 333 60067==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T15:41:01.115300+00:00",
-                "last_updated": "2026-09-16T15:41:01.115300+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16151 98429 41560 62603 10260 20248 40099 52007 70182 8393/ 333 83625 86360 81923==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T15:56:00.908145+00:00",
-                "last_updated": "2026-09-16T15:56:00.908145+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16181 98429 11560 52701 10255 20247 40094 57005 60061 70182 85570==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T18:56:01.086154+00:00",
-                "last_updated": "2026-09-16T18:56:01.086154+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16181 98429 11560 52701 10255 20247 40094 57005 60061 70182 82570 333 82625 85360==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T19:11:00.819589+00:00",
-                "last_updated": "2026-09-16T19:11:00.819589+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16211 98429 21560 80902 10259 20252 40078 56016 72582 8857/ 333 60007==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T21:41:01.903930+00:00",
-                "last_updated": "2026-09-16T21:41:01.903930+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 16211 98429 41560 80902 10259 20252 40078 56016 72582 8257/ 333 82625 88360==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-16T22:11:03.160509+00:00",
-                "last_updated": "2026-09-16T22:11:03.160509+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 17001 98429 11560 52202 10277 20257 40093 52015 60064 70182 82531 333 20247 56999 59007 70060 82625 85360 555 29999=",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-17T00:56:05.006832+00:00",
-                "last_updated": "2026-09-17T00:56:05.006832+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 17001 98429 11560 52202 10277 20257 40093 52015 60064 70182 82531 333 20247 59007 70060 82625 85360==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-17T01:11:04.832666+00:00",
-                "last_updated": "2026-09-17T01:11:04.832666+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 17031 98429 42560 43202 10305 20247 40088 58005 84530==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-17T03:41:04.878467+00:00",
-                "last_updated": "2026-09-17T03:41:04.878467+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 17031 98429 42560 43202 10305 20247 40088 58005 82530 333 82625 84360==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-17T03:56:04.828660+00:00",
-                "last_updated": "2026-09-17T03:56:04.828660+00:00"
-            },
-            {
-                "entity_id": "sensor.rpll_synop_raw",
-                "state": "AAXX 17061 98429 11559 70702 10312 20252 40088 55000 60001 72581 8757/==",
-                "attributes": {
-                    "friendly_name": "RPLL SYNOP Raw"
-                },
-                "last_changed": "2026-09-17T06:56:04.835263+00:00",
-                "last_updated": "2026-09-17T06:56:04.835263+00:00"
-            },
             {
                 "entity_id": "sensor.rpll_synop_raw",
                 "state": "AAXX 17061 98429 11559 70702 10312 20252 40088 55000 60001 72581 8357/ 333 83625 87360==",
                 "attributes": {
                     "friendly_name": "RPLL SYNOP Raw"
                 },
-                "last_changed": "2026-09-17T07:11:04.820807+00:00",
-                "last_updated": "2026-09-17T07:11:04.820807+00:00"
+                "last_changed": "2026-09-17T09:00:00+00:00",
+                "last_updated": "2026-09-17T09:00:00+00:00"
             },
             {
                 "entity_id": "sensor.rpll_synop_raw",
@@ -919,6 +1020,177 @@
                 },
                 "last_changed": "2026-09-17T09:26:06.492470+00:00",
                 "last_updated": "2026-09-17T09:26:06.492470+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "unavailable",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T10:11:08.961414+00:00",
+                "last_updated": "2026-09-17T10:11:08.961414+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17091 98429 41559 81301 10265 20263 40085 55003 78098 8352/ 333 83622 88458==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T10:26:09.106381+00:00",
+                "last_updated": "2026-09-17T10:26:09.106381+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17121 98429 11560 70501 10269 20264 40097 52012 60061 70298 8757/ 333 10328 58005==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T12:41:09.844193+00:00",
+                "last_updated": "2026-09-17T12:41:09.844193+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17121 98429 11560 70501 10269 20264 40097 52012 60061 70298 8257/ 333 10328 58005 82625 87360==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T13:11:11.089430+00:00",
+                "last_updated": "2026-09-17T13:11:11.089430+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17151 98429 21560 80202 10272 20251 40109 51012 76062 8857/ 333 60007==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T15:26:13.018506+00:00",
+                "last_updated": "2026-09-17T15:26:13.018506+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17151 98429 41560 80202 10272 20251 40109 51012 76062 8257/ 333 82625 88360==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T16:03:20.494258+00:00",
+                "last_updated": "2026-09-17T16:03:20.494258+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17151 98429 41560 80202 10272 20251 40109 51012 76062 8257/ 333 82625 88360==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T16:18:29.023926+00:00",
+                "last_updated": "2026-09-17T16:18:29.023926+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17151 98429 41560 80202 10272 20251 40109 51012 76062 8257/ 333 82625 88360==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T16:32:12.099200+00:00",
+                "last_updated": "2026-09-17T16:32:12.099200+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17181 98429 11560 51901 10262 20259 40098 57011 60051 72162 85570==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T18:48:57.529391+00:00",
+                "last_updated": "2026-09-17T18:48:57.529391+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17181 98429 11560 51901 10262 20259 40098 57011 60051 72162 82570 333 82625 85360==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T19:03:57.512575+00:00",
+                "last_updated": "2026-09-17T19:03:57.512575+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17211 98429 42560 3//00 10258 20258 40098 57004 83130==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T21:34:02.530271+00:00",
+                "last_updated": "2026-09-17T21:34:02.530271+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 17211 98429 42560 30000 10258 20258 40098 57004 81130 333 81825 83363==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-17T22:19:02.512365+00:00",
+                "last_updated": "2026-09-17T22:19:02.512365+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 18001 98429 12560 41701 10290 20259 40106 52012 60064 84400 333 20258 56900 58013 70060 84623=",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-18T00:49:02.672363+00:00",
+                "last_updated": "2026-09-18T00:49:02.672363+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 18001 98429 12560 41701 10290 20259 40106 52012 60064 84400 333 20258 58013 70060 84623==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-18T01:04:02.504569+00:00",
+                "last_updated": "2026-09-18T01:04:02.504569+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 18031 98429 42560 41602 10315 20245 40113 52007 84230==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-18T03:34:03.885043+00:00",
+                "last_updated": "2026-09-18T03:34:03.885043+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 18031 98429 42560 41602 10315 20245 40113 52007 83230 333 83825 84360==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-18T04:04:03.525624+00:00",
+                "last_updated": "2026-09-18T04:04:03.525624+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 18061 98429 41560 70104 10299 20235 40091 57022 71791 8796/==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-18T06:34:03.923308+00:00",
+                "last_updated": "2026-09-18T06:34:03.923308+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 18061 98429 41560 70104 10299 20235 40091 57022 71791 8496/ 333 87359 84920==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-18T07:04:04.908612+00:00",
+                "last_updated": "2026-09-18T07:04:04.908612+00:00"
+            },
+            {
+                "entity_id": "sensor.rpll_synop_raw",
+                "state": "AAXX 18091 98429 21560 71203 10274 20253 40099 53008 72598 8757/ 333 60217==",
+                "attributes": {
+                    "friendly_name": "RPLL SYNOP Raw"
+                },
+                "last_changed": "2026-09-18T09:19:07.706474+00:00",
+                "last_updated": "2026-09-18T09:19:07.706474+00:00"
             }
         ]
     ]
