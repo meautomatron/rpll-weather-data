@@ -1,10 +1,10 @@
 {
   "schema": 4,
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "timezone": "Asia/Manila",
-  "generated_at": "2026-10-03T17:58:00+08:00",
-  "history_start": "2026-10-02T17:00:00+08:00",
-  "history_end": "2026-10-03T17:58:00+08:00",
+  "generated_at": "2026-10-04T17:58:00+08:00",
+  "history_start": "2026-10-03T17:00:00+08:00",
+  "history_end": "2026-10-04T17:58:00+08:00",
   "target": "RPLL",
   "metar_observation_window": "approximately :45-:55",
   "files": {
@@ -29,43 +29,43 @@
   "csv": {
     "rpll_predictions": {
       "file": "rpll_predictions.csv",
-      "bytes": 334659,
-      "lines": 991
+      "bytes": 342572,
+      "lines": 1015
     },
     "rpll_v22_predictions": {
       "file": "rpll_v22_predictions.csv",
-      "bytes": 124504,
-      "lines": 718
+      "bytes": 128607,
+      "lines": 742
     },
     "rpll_v23_predictions": {
       "file": "rpll_v23_predictions.csv",
-      "bytes": 227559,
-      "lines": 716
+      "bytes": 235251,
+      "lines": 740
     },
     "rpll_v23_probability": {
       "file": "rpll_v23_probability.csv",
-      "bytes": 90746,
-      "lines": 468
+      "bytes": 95426,
+      "lines": 492
     },
     "rpll_v23_probability_eval": {
       "file": "rpll_v23_probability_eval.csv",
-      "bytes": 203771,
-      "lines": 652
+      "bytes": 211288,
+      "lines": 676
     },
     "rpll_synop": {
       "file": "rpll_synop.csv",
-      "bytes": 60383,
-      "lines": 352
+      "bytes": 61728,
+      "lines": 360
     },
     "rpll_pagasa_manual": {
       "file": "rpll_pagasa_manual.csv",
-      "bytes": 11034,
-      "lines": 49
+      "bytes": 11475,
+      "lines": 51
     },
     "v24_freshness_predictions": {
       "file": "rpll_v24_freshness_predictions.csv",
-      "bytes": 15578,
-      "lines": 19,
+      "bytes": 26702,
+      "lines": 32,
       "schema_version": 1,
       "status": "experimental_shadow"
     }
