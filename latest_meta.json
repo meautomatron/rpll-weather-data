@@ -1,10 +1,10 @@
 {
   "schema": 4,
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "timezone": "Asia/Manila",
-  "generated_at": "2026-10-05T17:58:00+08:00",
-  "history_start": "2026-10-04T17:00:00+08:00",
-  "history_end": "2026-10-05T17:58:00+08:00",
+  "generated_at": "2026-10-06T08:29:32+08:00",
+  "history_start": "2026-10-05T17:00:00+08:00",
+  "history_end": "2026-10-06T08:29:32+08:00",
   "target": "RPLL",
   "metar_observation_window": "approximately :45-:55",
   "files": {
@@ -24,38 +24,39 @@
     "v23_probability_eval_csv": "rpll_v23_probability_eval.csv",
     "synop_csv": "rpll_synop.csv",
     "pagasa_manual_csv": "rpll_pagasa_manual.csv",
-    "v24_freshness_predictions_csv": "rpll_v24_freshness_predictions.csv"
+    "v24_freshness_predictions_csv": "rpll_v24_freshness_predictions.csv",
+    "v25_local_cold_predictions_csv": "rpll_v25_local_cold_predictions.csv"
   },
   "csv": {
     "rpll_predictions": {
       "file": "rpll_predictions.csv",
-      "bytes": 350539,
-      "lines": 1039
+      "bytes": 355635,
+      "lines": 1054
     },
     "rpll_v22_predictions": {
       "file": "rpll_v22_predictions.csv",
-      "bytes": 132726,
-      "lines": 766
+      "bytes": 135110,
+      "lines": 780
     },
     "rpll_v23_predictions": {
       "file": "rpll_v23_predictions.csv",
-      "bytes": 242958,
-      "lines": 764
+      "bytes": 247420,
+      "lines": 778
     },
     "rpll_v23_probability": {
       "file": "rpll_v23_probability.csv",
-      "bytes": 100109,
-      "lines": 516
+      "bytes": 102824,
+      "lines": 530
     },
     "rpll_v23_probability_eval": {
       "file": "rpll_v23_probability_eval.csv",
-      "bytes": 218856,
-      "lines": 700
+      "bytes": 223707,
+      "lines": 715
     },
     "rpll_synop": {
       "file": "rpll_synop.csv",
-      "bytes": 63079,
-      "lines": 368
+      "bytes": 63741,
+      "lines": 372
     },
     "rpll_pagasa_manual": {
       "file": "rpll_pagasa_manual.csv",
@@ -64,8 +65,15 @@
     },
     "v24_freshness_predictions": {
       "file": "rpll_v24_freshness_predictions.csv",
-      "bytes": 41170,
-      "lines": 49,
+      "bytes": 52989,
+      "lines": 63,
+      "schema_version": 1,
+      "status": "experimental_shadow"
+    },
+    "v25_local_cold_predictions": {
+      "file": "rpll_v25_local_cold_predictions.csv",
+      "bytes": 10225,
+      "lines": 15,
       "schema_version": 1,
       "status": "experimental_shadow"
     }
