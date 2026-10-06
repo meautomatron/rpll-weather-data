@@ -2,9 +2,9 @@
   "schema": 4,
   "date": "2026-10-06",
   "timezone": "Asia/Manila",
-  "generated_at": "2026-10-06T08:29:32+08:00",
+  "generated_at": "2026-10-06T17:58:00+08:00",
   "history_start": "2026-10-05T17:00:00+08:00",
-  "history_end": "2026-10-06T08:29:32+08:00",
+  "history_end": "2026-10-06T17:58:00+08:00",
   "target": "RPLL",
   "metar_observation_window": "approximately :45-:55",
   "files": {
@@ -30,50 +30,50 @@
   "csv": {
     "rpll_predictions": {
       "file": "rpll_predictions.csv",
-      "bytes": 355635,
-      "lines": 1054
+      "bytes": 358725,
+      "lines": 1063
     },
     "rpll_v22_predictions": {
       "file": "rpll_v22_predictions.csv",
-      "bytes": 135110,
-      "lines": 780
+      "bytes": 136859,
+      "lines": 790
     },
     "rpll_v23_predictions": {
       "file": "rpll_v23_predictions.csv",
-      "bytes": 247420,
-      "lines": 778
+      "bytes": 250655,
+      "lines": 788
     },
     "rpll_v23_probability": {
       "file": "rpll_v23_probability.csv",
-      "bytes": 102824,
-      "lines": 530
+      "bytes": 104780,
+      "lines": 540
     },
     "rpll_v23_probability_eval": {
       "file": "rpll_v23_probability_eval.csv",
-      "bytes": 223707,
-      "lines": 715
+      "bytes": 226544,
+      "lines": 724
     },
     "rpll_synop": {
       "file": "rpll_synop.csv",
-      "bytes": 63741,
-      "lines": 372
+      "bytes": 64397,
+      "lines": 376
     },
     "rpll_pagasa_manual": {
       "file": "rpll_pagasa_manual.csv",
-      "bytes": 11915,
-      "lines": 53
+      "bytes": 12566,
+      "lines": 56
     },
     "v24_freshness_predictions": {
       "file": "rpll_v24_freshness_predictions.csv",
-      "bytes": 52989,
-      "lines": 63,
+      "bytes": 61534,
+      "lines": 73,
       "schema_version": 1,
       "status": "experimental_shadow"
     },
     "v25_local_cold_predictions": {
       "file": "rpll_v25_local_cold_predictions.csv",
-      "bytes": 10225,
-      "lines": 15,
+      "bytes": 17423,
+      "lines": 25,
       "schema_version": 1,
       "status": "experimental_shadow"
     }
