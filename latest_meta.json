@@ -1,10 +1,10 @@
 {
   "schema": 4,
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "timezone": "Asia/Manila",
-  "generated_at": "2026-10-14T17:58:00+08:00",
-  "history_start": "2026-10-13T17:00:00+08:00",
-  "history_end": "2026-10-14T17:58:00+08:00",
+  "generated_at": "2026-10-15T18:38:31+08:00",
+  "history_start": "2026-10-14T17:00:00+08:00",
+  "history_end": "2026-10-15T18:38:31+08:00",
   "target": "RPLL",
   "metar_observation_window": "approximately :45-:55",
   "files": {
@@ -30,33 +30,33 @@
   "csv": {
     "rpll_predictions": {
       "file": "rpll_predictions.csv",
-      "bytes": 421265,
-      "lines": 1249
+      "bytes": 429579,
+      "lines": 1274
     },
     "rpll_v22_predictions": {
       "file": "rpll_v22_predictions.csv",
-      "bytes": 169929,
-      "lines": 982
+      "bytes": 174092,
+      "lines": 1006
     },
     "rpll_v23_predictions": {
       "file": "rpll_v23_predictions.csv",
-      "bytes": 312166,
-      "lines": 980
+      "bytes": 319852,
+      "lines": 1004
     },
     "rpll_v23_probability": {
       "file": "rpll_v23_probability.csv",
-      "bytes": 141033,
-      "lines": 726
+      "bytes": 145699,
+      "lines": 750
     },
     "rpll_v23_probability_eval": {
       "file": "rpll_v23_probability_eval.csv",
-      "bytes": 285555,
-      "lines": 910
+      "bytes": 293330,
+      "lines": 935
     },
     "rpll_synop": {
       "file": "rpll_synop.csv",
-      "bytes": 75679,
-      "lines": 444
+      "bytes": 76850,
+      "lines": 451
     },
     "rpll_pagasa_manual": {
       "file": "rpll_pagasa_manual.csv",
@@ -65,15 +65,15 @@
     },
     "v24_freshness_predictions": {
       "file": "rpll_v24_freshness_predictions.csv",
-      "bytes": 219233,
-      "lines": 259,
+      "bytes": 239636,
+      "lines": 283,
       "schema_version": 1,
       "status": "experimental_shadow"
     },
     "v25_local_cold_predictions": {
       "file": "rpll_v25_local_cold_predictions.csv",
-      "bytes": 148039,
-      "lines": 207,
+      "bytes": 165320,
+      "lines": 231,
       "schema_version": 1,
       "status": "experimental_shadow"
     }
