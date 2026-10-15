@@ -2,9 +2,9 @@
   "schema": 4,
   "date": "2026-10-15",
   "timezone": "Asia/Manila",
-  "generated_at": "2026-10-15T18:38:31+08:00",
+  "generated_at": "2026-10-15T18:43:33+08:00",
   "history_start": "2026-10-14T17:00:00+08:00",
-  "history_end": "2026-10-15T18:38:31+08:00",
+  "history_end": "2026-10-15T18:43:33+08:00",
   "target": "RPLL",
   "metar_observation_window": "approximately :45-:55",
   "files": {
@@ -25,6 +25,9 @@
     "synop_csv": "rpll_synop.csv",
     "pagasa_manual_csv": "rpll_pagasa_manual.csv",
     "v24_freshness_predictions_csv": "rpll_v24_freshness_predictions.csv",
-    "v25_local_cold_predictions_csv": "rpll_v25_local_cold_predictions.csv"
+    "v25_local_cold_predictions_csv": "rpll_v25_local_cold_predictions.csv",
+    "ecmwf_archive": "rpll_ecmwf_archive.json",
+    "rpll_v26_v27_predictions_csv": "rpll_v26_v27_predictions.csv",
+    "rpll_ecmwf_daily_max_cases_csv": "rpll_ecmwf_daily_max_cases.csv"
   }
 }
