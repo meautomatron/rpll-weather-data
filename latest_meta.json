@@ -1,10 +1,10 @@
 {
   "schema": 4,
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "timezone": "Asia/Manila",
-  "generated_at": "2026-10-16T17:58:00+08:00",
-  "history_start": "2026-10-15T17:00:00+08:00",
-  "history_end": "2026-10-16T17:58:00+08:00",
+  "generated_at": "2026-10-17T17:58:00+08:00",
+  "history_start": "2026-10-16T17:00:00+08:00",
+  "history_end": "2026-10-17T17:58:00+08:00",
   "target": "RPLL",
   "metar_observation_window": "approximately :45-:55",
   "files": {
@@ -33,33 +33,33 @@
   "csv": {
     "rpll_predictions": {
       "file": "rpll_predictions.csv",
-      "bytes": 437053,
-      "lines": 1296
+      "bytes": 445254,
+      "lines": 1320
     },
     "rpll_v22_predictions": {
       "file": "rpll_v22_predictions.csv",
-      "bytes": 178259,
-      "lines": 1030
+      "bytes": 182455,
+      "lines": 1054
     },
     "rpll_v23_predictions": {
       "file": "rpll_v23_predictions.csv",
-      "bytes": 327558,
-      "lines": 1028
+      "bytes": 335303,
+      "lines": 1052
     },
     "rpll_v23_probability": {
       "file": "rpll_v23_probability.csv",
-      "bytes": 150374,
-      "lines": 774
+      "bytes": 155058,
+      "lines": 798
     },
     "rpll_v23_probability_eval": {
       "file": "rpll_v23_probability_eval.csv",
-      "bytes": 300289,
-      "lines": 957
+      "bytes": 307930,
+      "lines": 981
     },
     "rpll_synop": {
       "file": "rpll_synop.csv",
-      "bytes": 78229,
-      "lines": 459
+      "bytes": 79607,
+      "lines": 467
     },
     "rpll_pagasa_manual": {
       "file": "rpll_pagasa_manual.csv",
@@ -68,38 +68,38 @@
     },
     "v24_freshness_predictions": {
       "file": "rpll_v24_freshness_predictions.csv",
-      "bytes": 260060,
-      "lines": 307,
+      "bytes": 280494,
+      "lines": 331,
       "schema_version": 1,
       "status": "experimental_shadow"
     },
     "v25_local_cold_predictions": {
       "file": "rpll_v25_local_cold_predictions.csv",
-      "bytes": 182587,
-      "lines": 255,
+      "bytes": 199870,
+      "lines": 279,
       "schema_version": 1,
       "status": "experimental_shadow"
     },
     "rpll_v26_v27_predictions": {
       "file": "rpll_v26_v27_predictions.csv",
-      "bytes": 8173,
-      "lines": 113,
+      "bytes": 9897,
+      "lines": 137,
       "schema_version": 1,
       "status": "experimental_shadow"
     },
     "rpll_ecmwf_daily_max_cases": {
       "file": "rpll_ecmwf_daily_max_cases.csv",
-      "bytes": 305289,
-      "lines": 1545,
+      "bytes": 366603,
+      "lines": 1857,
       "schema_version": 1,
       "status": "experimental_shadow"
     }
   },
   "ecmwf_archive": {
     "file": "rpll_ecmwf_archive.json",
-    "bytes": 4527399,
-    "sha256": "093af189174063f23a17a0c76029ab25bcf2d00174ab5d04d850a4021fbca4ee",
-    "files": 429,
+    "bytes": 5485662,
+    "sha256": "cb7863a94535314e0ad81dc42199e2248fd81e53f18fd057c8b6c94a844f3023",
+    "files": 522,
     "bootstrap": true
   }
 }
